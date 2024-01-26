@@ -13,3 +13,5 @@
 - - Collections (Bộ sưu tập): Khi làm việc với các cấu trúc dữ liệu như mảng, danh sách liên kết, hoặc bất kỳ bộ sưu tập nào khác, generics giúp viết mã chung cho nhiều kiểu dữ liệu.
 
 - - Library và Framework: Khi bạn xây dựng thư viện hoặc framework, sử dụng generics giúp người sử dụng linh hoạt khi tương tác với mã của bạn.
+
+// Partial<T> dùng để tạo ra một phiên bản đc kế thừa từ T nhưng lại thêm optional trong các thuộc tính của T
